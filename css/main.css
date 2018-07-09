@@ -1,0 +1,45 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+#bento{
+  border: 5px solid red;
+  width: 50em;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+  .box1 {
+  background: green;
+  margin: 0;
+  height: 10em;
+  width: 25em;
+
+  }
+  .box2{
+   background: yellow;
+   margin: 0;
+   height: 10em;
+   width: 25em;
+
+  }
+.box3{
+ background: orange;
+ margin: 0;
+ height: 10em;
+ width: 25em;
+
+}
+.box4{
+ background: indigo;
+ margin: 0;
+ height: 10em;
+ width: 25em;
+
+}
+h1{
+  font-size: 3em;
+  color: white;
+  margin: 0;
+}
